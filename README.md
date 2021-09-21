@@ -1,3 +1,3 @@
 # Datacamp-Project-Python
 
-To show Datacamp project
+To show skill which I learn datascience from Datacamp 
